@@ -9,5 +9,8 @@ Removing the necessity to format is functionality I intend on adding later, but 
 * Second, the files given to us do not have the correct results. I got them by first submitting my code, and using the correct responses mimir gave me. This leads me to the second thing to consider: you need for manually create all of the correct testing results. Luckily for you, I have here the correct test results for cases 1-7. 
 <br>
 One last thing: you might need to change the way the script complies your c++ code. It is set using the compiling command I used.  
+
 ## Use
-First download the code and the correct results for the test cases. Next, to actually run the program, you need to first execute the line "chmod +x testing.sh". After doing so, you are freely allowed to just start up the program using "bash ./testing.sh"
+1. download the code and the correct results for the test cases. 
+2. To actually run the program, you need to first execute the line "chmod +x testing.sh". 
+3. After this, you are freely allowed to just start up the program using "bash ./testing.sh"
