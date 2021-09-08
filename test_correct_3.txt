@@ -1,0 +1,12 @@
+enter grades as <category> <score>
+  <category> := exam | final-exam | hw | lw | engagement
+     <score> := numeric value
+enter an empty line to end input
+summary:
+      exam average: 43.1
+        hw average: 85.8143
+        lw average: 100
+        engagement: 94
+    ---------------
+    weighted total: 70.9657
+final letter grade: C
